@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/faroasis/ios-erp2/master/CQGJ/Erp2.ipa</string>
+					<string>https://raw.githubusercontent.com/jerehsoft/ERP2-IOS/master/CQGJ/Erp2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/faroasis/ios-erp2/master/CQGJ/IconLarge.png</string>
+					<string>https://raw.githubusercontent.com/jerehsoft/ERP2-IOS/master/CQGJ/IconLarge.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/faroasis/ios-erp2/master/CQGJ/IconSmall.png</string>
+					<string>https://raw.githubusercontent.com/jerehsoft/ERP2-IOS/master/CQGJ/IconSmall.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
