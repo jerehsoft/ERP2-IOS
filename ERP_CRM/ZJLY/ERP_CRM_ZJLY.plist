@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/jerehsoft/ERP2-IOS/master/ERP_CRM/ZJLY/erp_crm_zjly.ipa</string>
+					<string>https://raw.githubusercontent.com/jerehsoft/ERP2-IOS/master/ERP_CRM/ZJLY/ERPZJLY.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jerei.erp2.crm.zjly2</string>
+				<string>com.jerei.erp2.crm.ZJLYJEREI</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
