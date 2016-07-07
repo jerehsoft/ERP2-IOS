@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jerehsoft.qrdms.znzk</string>
+				<string>com.jerehsoft.qrdms</string>
 				<key>bundle-version</key>
-				<string>1.0.5</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>中农DMS</string>
+				<string>中联重机</string>
 			</dict>
 		</dict>
 	</array>
