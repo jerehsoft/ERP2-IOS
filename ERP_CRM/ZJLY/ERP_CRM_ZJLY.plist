@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jerei.erp2.crm.ZJLYJEREI</string>
+				<string>com.jerei.erp2.crm.ZJLYIOS</string>
 				<key>bundle-version</key>
-				<string>1.1.5</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
