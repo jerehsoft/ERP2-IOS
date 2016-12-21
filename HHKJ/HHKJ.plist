@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jerehsoft.phone.hhkj</string>
+				<string>com.jerehsoft.phone.hhkj.ios</string>
 				<key>bundle-version</key>
 				<string>1.1.18</string>
 				<key>kind</key>
