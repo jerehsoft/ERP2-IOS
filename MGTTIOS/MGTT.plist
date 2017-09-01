@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Mgtt.jerei.ios</string>
+				<string>com.MgttApp.jerei.ios</string>
 				<key>bundle-version</key>
 				<string>1.2.1</string>
 				<key>kind</key>
