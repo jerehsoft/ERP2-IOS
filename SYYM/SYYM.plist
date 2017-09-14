@@ -40,6 +40,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
+				<key>updateText</key>
+				<string>添加了微信、QQ快捷登录</string>
 			</dict>
 		</dict>
 	</array>
