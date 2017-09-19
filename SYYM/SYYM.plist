@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>添加了微信、QQ快捷登录</string>
+				<string></string>
 			</dict>
 		</dict>
 	</array>
