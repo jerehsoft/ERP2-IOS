@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.0.6</string>
+				<string>1.0.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.修复用户登录状态异常的问题 2.更改首页“美颜购”模块 3.修改密码规则 4.增加第三方登录</string>
+				<string>1.修复日记界面闪退问题  2.我的订单增加发布日记入口 3.发布日记增加选择已购项目界面</string>
 			</dict>
 		</dict>
 	</array>
