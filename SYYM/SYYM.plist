@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.0.7</string>
+				<string>1.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.修复日记界面闪退问题  2.我的订单增加发布日记入口 3.发布日记增加选择已购项目界面</string>
+				<string>修复手机在未联网状态下进入APP会闪退的问题</string>
 			</dict>
 		</dict>
 	</array>
