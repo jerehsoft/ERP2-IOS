@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.0.8</string>
+				<string>1.0.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>修复手机在未联网状态下进入APP会闪退的问题</string>
+				<string>1.修复部分闪退问题，添加点赞、关注。 2.更改首页选择地区后的逻辑。 3.修复其他界面BUG。  4.杀了一只程序员祭天。</string>
 			</dict>
 		</dict>
 	</array>
