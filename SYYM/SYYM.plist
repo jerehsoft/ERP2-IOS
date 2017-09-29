@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.0.9</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.修复部分闪退问题，添加点赞、关注。 2.更改首页选择地区后的逻辑。 3.修复其他界面BUG。  4.杀了一只程序员祭天。</string>
+				<string>1.让您久等了，邀请好友分享终于来了！ 2.修改了跳转客服聊天界面的逻辑  3.我的日记、帖子、问答增加三个分类，分别为“我发布的”、“我关注的”、“我回复的” 4.修复了回复帖子不能正常回复的问题 5.在发现界面中增加了“视频”选项卡 6.被杀死的程序员听到客户反馈的问题后，自己又坚强的爬了起来</string>
 			</dict>
 		</dict>
 	</array>
