@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.让您久等了，邀请好友分享终于来了！ 2.修改了跳转客服聊天界面的逻辑  3.我的日记、帖子、问答增加三个分类，分别为“我发布的”、“我关注的”、“我回复的” 4.修复了回复帖子不能正常回复的问题 5.在发现界面中增加了“视频”选项卡 6.被杀死的程序员听到客户反馈的问题后，自己又坚强的爬了起来</string>
+				<string>1.修复评论后返回详情页评论不刷新的问题 2.现在点击问答、帖子以及日记本详情列表的评论按钮也能够评论了 3.评论详情的图片显示问题以及报错问题需要等H5升级后即可恢复正常，目前正在加急修复中 4.专家详情图片显示不全问题为上传图片尺寸所致，正在与相关人员协调</string>
 			</dict>
 		</dict>
 	</array>
