@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>1.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.修复评论后返回详情页评论不刷新的问题 2.现在点击问答、帖子以及日记本详情列表的评论按钮也能够评论了 3.评论详情的图片显示问题以及报错问题需要等H5升级后即可恢复正常，目前正在加急修复中 4.专家详情图片显示不全问题为上传图片尺寸所致，正在与相关人员协调</string>
+				<string>修改帖子、日记、问答的跳转逻辑</string>
 			</dict>
 		</dict>
 	</array>
