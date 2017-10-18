@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.1.6</string>
+				<string>1.1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>日常更新</string>
+				<string>1.修复两个崩溃问题 2.修正部分订单界面功能 3.消息界面调整 4.发表文字内容增加字数限制</string>
 			</dict>
 		</dict>
 	</array>
