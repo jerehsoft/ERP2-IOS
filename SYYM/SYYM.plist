@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.1.7</string>
+				<string>1.1.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.修复两个崩溃问题 2.修正部分订单界面功能 3.消息界面调整 4.发表文字内容增加字数限制</string>
+				<string>1.首页banner图、广告页增加链接入口 2.医院增加领取优惠券入口 3.修复其他界面BUG</string>
 			</dict>
 		</dict>
 	</array>
