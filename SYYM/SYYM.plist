@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.1.8</string>
+				<string>1.1.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.首页banner图、广告页增加链接入口 2.医院增加领取优惠券入口 3.修复其他界面BUG</string>
+				<string>1.修复部分列表刷新问题 2.视频播放功能现在已经加入</string>
 			</dict>
 		</dict>
 	</array>
