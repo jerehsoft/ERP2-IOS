@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.1.9</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>1.修复部分列表刷新问题 2.视频播放功能现在已经加入</string>
+				<string>1.修复视频播放退出界面时，后台内存不释放的问题 2.修复通知消息点击时头部标题角标不刷新问题</string>
 			</dict>
 		</dict>
 	</array>
