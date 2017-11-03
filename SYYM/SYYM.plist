@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.suning.soyayimmy.distribution</string>
 				<key>bundle-version</key>
-				<string>1.2.1</string>
+				<string>1.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>荟美</string>
 				<key>updateText</key>
-				<string>修复了限时抢购活动的一个小问题</string>
+				<string>为部分不差钱的用户购买的iphoneX做了屏幕适配</string>
 			</dict>
 		</dict>
 	</array>
