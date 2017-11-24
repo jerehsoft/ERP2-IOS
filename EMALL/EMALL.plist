@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jerei.emall-e-shop</string>
+				<string>com.jerei.emall</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
