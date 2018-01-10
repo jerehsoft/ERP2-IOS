@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.jerei.emall</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>1.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>EMALL商城</string>
 				<key>updateText</key>
-				<string>新更新！</string>
+				<string>哇，好智能，666！</string>
 			</dict>
 		</dict>
 	</array>
