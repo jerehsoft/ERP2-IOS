@@ -13,6 +13,12 @@
 				<string>更新提示</string>
 				<key>isPub</key>
 				<string>NO</string>
+				<key>bundle-version-pf</key>
+				<string>1.0.2</string>
+				<key>updateText-pf</key>
+				<string>更新提示</string>
+				<key>isPub-pf</key>
+				<string>NO</string>
 			</dict>
 		</dict>
 	</array>
