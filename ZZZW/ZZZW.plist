@@ -11,6 +11,8 @@
 				<string>1.0.1</string>
 				<key>updateText</key>
 				<string>更新提示</string>
+				<key>isPub</key>
+				<string>NO</string>
 			</dict>
 		</dict>
 	</array>
