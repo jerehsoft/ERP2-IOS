@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.lovol.lovolHeavyIndustryCRM</string>
 				<key>bundle-version</key>
-				<string>1.2.1</string>
+				<string>1.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>雷沃重工CRM系统</string>
 				<key>attribute</key>
-				<string>B2B商城震撼上线，热门整机在线预览，优质二手机要你好看！点击更新即可享有。</string>
+				<string>已知问题修复</string>
 			</dict>
 		</dict>
 	</array>
