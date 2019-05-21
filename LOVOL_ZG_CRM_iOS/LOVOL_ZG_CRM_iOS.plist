@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.lovol.lovolHeavyIndustryCRM</string>
 				<key>bundle-version</key>
-				<string>1.4.6</string>
+				<string>1.4.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>雷沃重工CRM系统</string>
 				<key>attribute</key>
-				<string>登录页调整</string>
+				<string>修复部分权限导致的加载数据错乱问题；优化部分细节</string>
 			</dict>
 		</dict>
 	</array>
