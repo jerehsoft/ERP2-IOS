@@ -35,7 +35,9 @@
 				<key>bundle-identifier</key>
 				<string>com.lovol.lovolHeavyIndustryCRM</string>
 				<key>bundle-version</key>
+
 				<string>2.3.8</string>
+
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
