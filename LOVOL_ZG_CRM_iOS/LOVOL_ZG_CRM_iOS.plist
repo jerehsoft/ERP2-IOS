@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.lovol.lovolHeavyIndustryCRM</string>
 				<key>bundle-version</key>
-				<string>1.6.0</string>
+				<string>1.6.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>雷沃CRM培训</string>
 				<key>attribute</key>
-				<string></string>
+				<string>更新移动审批</string>
 			</dict>
 		</dict>
 	</array>
